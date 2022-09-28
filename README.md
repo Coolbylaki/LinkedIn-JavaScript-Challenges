@@ -14,3 +14,8 @@ Classroom attendance 2/4 <br>
 Dynamic Colors 2/4 <br>
 Coffee Calculations 3/4 <br>
 Food truck 3/4 <br>
+Train Generator 3/4 <br>
+String Permutation 4/4 <br>
+Five Friends 4/4 <br>
+URLify 4/4 <br>
+Password Strength 4/4 <br>
