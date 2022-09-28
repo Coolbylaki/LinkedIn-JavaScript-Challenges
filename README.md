@@ -8,3 +8,4 @@ Available Books - 1/4<br>
 Movie Object - 1/4<br>
 Vegetarian Dinner - 1/4<br>
 Technical Books - 2/4<br>
+Private Object - 2/4<br>
