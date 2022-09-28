@@ -25,4 +25,14 @@ function makeMenuList(menu) {
 }
 
 const menu = makeUniqueMenu(vendorOne, vendorTwo, vendorThree, vendorFour);
-makeMenuList(menu)
+const setMenu = makeUniqueMenuWithSet(vendorOne, vendorTwo, vendorThree, vendorFour);
+makeMenuList(setMenu)
+
+// Solution with Sets
+function makeUniqueMenuWithSet(...menus) {
+    let flatMenus = menus.flat()
+
+    let uniqueMenu = new Set();
+    flatMenus.forEach(item => uniqueMenu.add(item))
+    return uniqueMenu
+}
